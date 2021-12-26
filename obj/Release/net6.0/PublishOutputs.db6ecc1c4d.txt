@@ -1,0 +1,12 @@
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\jaiganeshmvcapp.exe
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\publish\web.config
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\appsettings.Development.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\appsettings.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\publish\appsettings.Development.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\publish\appsettings.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\publish\jaiganeshmvcapp.deps.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\publish\jaiganeshmvcapp.runtimeconfig.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\jaiganeshmvcapp.dll
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\jaiganeshmvcapp.deps.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\jaiganeshmvcapp.runtimeconfig.json
+C:\Users\shail\source\repos\learnings\jaiganeshmvcapp\publish\jaiganeshmvcapp.pdb
